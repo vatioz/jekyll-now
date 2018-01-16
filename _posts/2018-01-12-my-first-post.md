@@ -13,4 +13,9 @@ Need to try:
   * include C# code in post
   * create list of categories or tags
   * [how to write posts](https://jekyllrb.com/docs/posts/)
+  
 
+
+```
+var test = "";
+```
