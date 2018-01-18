@@ -16,6 +16,6 @@ Need to try:
   
 
 
-{% highlight csharp %}
+{% highlight csharp linenos %}
 var test = "";
 {% endhighlight %}
